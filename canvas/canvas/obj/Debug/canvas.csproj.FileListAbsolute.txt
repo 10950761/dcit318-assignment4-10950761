@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\bin\Debug\canvas.exe.config
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\bin\Debug\canvas.exe
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\bin\Debug\canvas.pdb
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.Form1.resources
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.Properties.Resources.resources
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.exe
+C:\Users\Dell\Desktop\godfred-318\canvas\canvas\obj\Debug\canvas.pdb

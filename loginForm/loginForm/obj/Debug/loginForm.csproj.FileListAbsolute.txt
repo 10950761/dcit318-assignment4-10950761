@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\bin\Debug\loginForm.exe.config
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\bin\Debug\loginForm.exe
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\bin\Debug\loginForm.pdb
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.Form1.resources
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.Properties.Resources.resources
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.exe
+C:\Users\Dell\Desktop\godfred-318\loginForm\loginForm\obj\Debug\loginForm.pdb
